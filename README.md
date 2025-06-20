@@ -1,6 +1,6 @@
 # Java Quiz Application 🎓
 
-This is a simple quiz application developed using **Java Swing and AWT**. It allows students to take a multiple-choice quiz with a timer. The application includes a login screen, quiz rules, quiz questions, and a final score display.
+This is a simple quiz application developed using **Java Swing and AWT**. It allows students to take a multiple-choice quiz with a timer. The application includes a login screen, quiz rules, quiz questions and a final score display.
 ---
 
 ## ✨ Features
@@ -38,7 +38,7 @@ java quiz.application.Login
 ```
 
 💻 Option 2: Using an IDE
-  1. Open the project in IntelliJ IDEA, Eclipse, or any Java IDE.
+  1. Open the project in IntelliJ IDEA, Eclipse or any Java IDE.
   
   2. Navigate to Login.java.
   

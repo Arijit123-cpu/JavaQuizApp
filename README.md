@@ -47,7 +47,8 @@ java quiz.application.Login
 ---
 
 🛠️ Technologies Used
-  Java 8+
+
+  Java
   
   Swing (for GUI design)
   
